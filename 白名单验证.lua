@@ -10,7 +10,7 @@ Notify({
 });
   wait(5)
 
-local Allowed = loadstring(game:HttpGet("https://raw.githubusercontent.com/odhdshhe/-1/refs/heads/main/%E7%99%BD%E5%90%8D%E5%8D%95.lua"))()
+local Allowed = loadstring(game:HttpGet("https://raw.githubusercontent.com/LENG64nbnb/bai/refs/heads/main/%E7%99%BD%E5%90%8D%E5%8D%95.lua"))()
 if Allowed[PL.Name] then
 Notify({
     Description = " 验证成功\n 欢迎尊敬的白名单用户\n 正在加载脚本......";
